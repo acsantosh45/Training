@@ -1,4 +1,4 @@
-package day1;
+package day2git ;
 
 public class Laptop {
 
