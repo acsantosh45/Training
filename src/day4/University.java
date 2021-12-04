@@ -11,6 +11,7 @@ public class University {
         student.setAge(26);
         student.setSex("Female");
         student.setAddress("3226 Hurst ave");
+
         student.setFaculty("Graduate");
         student.setStudentClass(4);
         student.setRollNumber(14);
