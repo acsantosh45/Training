@@ -7,7 +7,7 @@ public class University {
         Student student1=new Student();
 
         //student
-        student.setName("Pooja");
+        student.setName("Deepa");
         student.setAge(26);
         student.setSex("Female");
         student.setAddress("3226 Hurst ave");
