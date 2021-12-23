@@ -13,7 +13,7 @@ public class GradeCalculator {
                 System.out.println("Enter a mark of subject 1!");
                 while (!sc.hasNextInt()) {
                     System.out.println("Please enter a valid number");
-                    sc.next(); // this is important!
+                    sc.next(); // this is important!git
                 }
                 marks[i] = sc.nextInt();
             } while (marks[i] <= 0 || marks[i] > 100);
